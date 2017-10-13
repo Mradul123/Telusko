@@ -1,5 +1,7 @@
 Welcome to the hub.
 Successfully created a Hub useful for 
 the audience.
+This is basically a Hub of knowledge
+and all are welcome.
 Some changes have been made on other 
 branch.
